@@ -3,16 +3,16 @@ Kaggle Competition
 
 Feature Engineering with:
 
-TDIDF
+  TDIDF
 
-Word Matching
+  Word Matching
+  
+  Noun/Verb Matching
 
-Noun/Verb Matching
+  String Matching
 
-String Matching
+  Fuzzy Similarities
 
-Fuzzy Similarities
+  String distance metrics
 
-String distance metrics
-
-Classifier is xgboost
+  Classifier is xgboost
